@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: Blobby Bits
 description: A foray into bitsy bytes
+show_downloads: false
